@@ -1,0 +1,53 @@
+body{
+  background-color: gray;
+  text-align: center;
+}
+.btn{
+  background-color: black;
+  width: 85px;
+  height: 85px;
+  margin: 1px;
+  padding: 10px;
+  text-align: center;
+  justify-content: center;
+  display: inline-block;
+  cursor: pointer;
+  color: white;
+  vertical-align:text-bottom
+}
+.btn:hover{
+/*   background-color: yellow; */
+/*   color: black; */
+}
+.group{
+  background-color: white;
+  padding: 5px;
+  display: inline-block;
+  margin: 5px;
+}
+.black{
+  color: black;
+}
+black:hover{
+/*   color: yellow; */
+}
+.active{
+  background-color: red;
+}
+.lined{
+  background-color: yellow;
+  color: black;
+}
+
+button{
+  color: white;
+  background-color: #666ddd;
+  border: white solid thin;
+  padding: 3px 18px;
+  margin: 5px 2px;
+}
+button:hover{
+  background-color: white;
+  color: black;
+  cursor: pointer;
+}
